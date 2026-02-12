@@ -1,70 +1,73 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Hamaad</h1>
-<h3 align="center">🚀 Associate Software Engineer | Java & Spring Boot Backend Developer</h3>
+<h3 align="center">💻 Software Engineer | Backend Systems & Clean Architecture</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 About Me  
-I'm currently working as an **Associate Software Engineer**, building and maintaining real-world backend applications using **Java and Spring Boot**.
+## 🌟 About Me
 
-I focus on writing clean, scalable, and production-ready backend systems.
+I'm a **Software Engineer** focused on building scalable and production-grade backend systems.
+
+I work primarily with the **Spring Boot ecosystem**, designing RESTful APIs, securing applications, managing databases, and contributing to microservices-based architectures.
+
+I believe in:
+- Writing clean, maintainable code  
+- Designing systems with clarity  
+- Following best practices & clean architecture principles  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-### 🔹 Backend
+### 🔹 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres" height="50" />
 </p>
 
 - Spring Boot  
 - Spring Security  
 - JPA / Hibernate  
-- REST APIs  
-- JWT Authentication  
-- Pagination, Sorting & Filtering  
+- RESTful API Design  
+- Microservices Architecture  
+- Pagination, Filtering & Sorting  
 - Logging & MDC  
+- Exception Handling & Validation  
 
 ---
 
-### 🔹 Tools
+### 🔹 Databases
+- MySQL  
+- PostgreSQL  
+- Query optimization  
+- Entity relationships & mapping  
+
+---
+
+### 🔹 DevOps & Deployment (Exposure)
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,redis,linux" height="50" />
 </p>
 
----
-
-## 🚀 Projects
-
-### 🔸 Enterprise Spring Boot Applications  
-- Authentication & Authorization  
-- Role-based access  
-- Production-ready API structure  
-- Database relationships & optimization  
-
-### 🔸 Practice & Learning Projects  
-- Pagination, Sorting & Filtering APIs  
-- Spring Security (In-Memory + JWT)  
-- Logging with MDC  
-- Testing with JUnit & Mockito  
+- CI/CD Pipelines (Jenkins)  
+- Docker Containers  
+- Redis Caching  
+- Linux basics  
 
 ---
 
-## 📚 Currently Learning
-- Advanced Spring Security  
-- Caching (Redis)  
-- Microservices Architecture  
-- Docker & Deployment  
-- Clean Code & System Design  
+## 🚀 What I Focus On
+
+- Building secure backend systems  
+- Writing production-ready APIs  
+- Clean code & maintainable architecture  
+- Continuous improvement as a backend engineer  
 
 ---
 
@@ -92,5 +95,5 @@ I focus on writing clean, scalable, and production-ready backend systems.
 ---
 
 <p align="center">
-  ✨ Growing daily as a Backend Engineer ✨
+  🚀 Strong Backend Engineer | Clean Code Enthusiast
 </p>
