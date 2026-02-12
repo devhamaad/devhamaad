@@ -12,7 +12,7 @@ I didn’t start as an expert.
 
 I started confused.  
 Reading documentation slowly.  
-Breaking things. Fixing them. Breaking them again.  
+Breaking things. Fixing them. Breaking them again.
 
 Today, I work as a Software Engineer building backend systems with Java and Spring Boot.  
 Not perfectly. Not magically.  
@@ -22,23 +22,28 @@ Every day I try to understand systems a little deeper than yesterday.
 
 ---
 
-## What I Work With
+## Technologies I Work With
 
-Spring Boot  
-Spring Security  
-JPA / Hibernate  
-MySQL & PostgreSQL  
-Microservices  
-Redis  
-Docker  
-Jenkins CI/CD  
+### Backend
+- Java  
+- Spring Boot  
+- Spring Security  
+- JPA / Hibernate  
+- RESTful APIs  
+- Microservices Architecture  
 
-But tools are just tools.
+### Databases
+- MySQL  
+- PostgreSQL  
 
-What really matters to me is writing code that:
-- Someone else can understand  
-- Doesn’t collapse under pressure  
-- Still makes sense six months later  
+### Infrastructure & DevOps (Exposure)
+- Docker  
+- Jenkins (CI/CD Pipelines)  
+- Redis  
+- Linux basics  
+
+These are tools I use to solve real problems —  
+improving existing systems, fixing production issues, and making applications more reliable.
 
 ---
 
@@ -50,6 +55,7 @@ It’s about designing systems that behave correctly.
 It’s about:
 - Thinking before coding  
 - Refactoring when needed  
+- Writing clean, maintainable code  
 - Taking responsibility when something breaks  
 - Growing quietly without noise  
 
