@@ -1,90 +1,70 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Hamaad</h1>
-<h3 align="center">🚀 Backend Developer (ASP.NET Core) | DevOps Learner | Future React Developer</h3>
+<h3 align="center">🚀 Associate Software Engineer | Java & Spring Boot Backend Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-0078D4?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-0A0FFF?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 ## 🌟 About Me  
-I'm on a dedicated journey to become a **strong ASP.NET Core Backend Developer** — building real APIs, learning clean architecture, EF Core, and writing production-grade backend code.
+I'm currently working as an **Associate Software Engineer**, building and maintaining real-world backend applications using **Java and Spring Boot**.
 
-My long-term roadmap:
+I focus on writing clean, scalable, and production-ready backend systems.
 
-### ✅ Phase 1 — Backend Developer (Current)
-- C#, .NET 8, Web API  
-- Routing, Query Strings, Middleware  
-- EF Core, LINQ, Code First  
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="50" />
+</p>
+
+- Spring Boot  
+- Spring Security  
+- JPA / Hibernate  
+- REST APIs  
+- JWT Authentication  
+- Pagination, Sorting & Filtering  
+- Logging & MDC  
+
+---
+
+### 🔹 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea" height="50" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔸 Enterprise Spring Boot Applications  
 - Authentication & Authorization  
-- Clean Architecture
+- Role-based access  
+- Production-ready API structure  
+- Database relationships & optimization  
 
-### 🎯 Phase 2 — DevOps (Next)
-- Docker & Containers  
-- GitHub Actions CI/CD  
-- Deploying .NET APIs  
-- Linux Basics  
-- Cloud (Azure later)
-
-### 💡 Phase 3 — React (After DevOps)
-- React components  
-- State management  
-- API integration  
-- Full-stack development
+### 🔸 Practice & Learning Projects  
+- Pagination, Sorting & Filtering APIs  
+- Spring Security (In-Memory + JWT)  
+- Logging with MDC  
+- Testing with JUnit & Mockito  
 
 ---
 
-## 🛠️ Skills & Tools
-
-### 🔹 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="50" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" />
-</p>
-
-### 🔹 **DevOps (Learning)**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" />
-</p>
-
-### 🔹 **Frontend (Upcoming)**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://skillicons.dev/icons?i=javascript,html,css" height="50" />
-</p>
-
----
-
-## 🚀 Projects I'm Building
-
-### 🔸 **Smart Maintenance API**  
-A backend API for maintenance/service management.  
-Includes routing, EF Core, repositories, clean architecture, and more.
-
-### 🔸 **Routing Practice API**  
-Advanced practice on routing, route parameters, constraints, patterns, and query strings.
-
-### 🔸 **Upcoming Projects**
-- Dockerized .NET API  
-- Automatic CI/CD using GitHub Actions  
-- React + ASP.NET Core full-stack project  
-
----
-
-## 📚 What I'm Learning Right Now
-- Improve routing & API structure  
-- Deep EF Core (relationships, navigation)  
-- Docker containers  
-- CI/CD pipelines  
-- Git workflow & version control  
+## 📚 Currently Learning
+- Advanced Spring Security  
+- Caching (Redis)  
+- Microservices Architecture  
+- Docker & Deployment  
+- Clean Code & System Design  
 
 ---
 
@@ -101,11 +81,7 @@ Advanced practice on routing, route parameters, constraints, patterns, and query
 
 <p>
   <a href="mailto:devhamaad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://wa.me/923071718709">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/hamaad-majeed-521387398/">
@@ -116,5 +92,5 @@ Advanced practice on routing, route parameters, constraints, patterns, and query
 ---
 
 <p align="center">
-  ✨ I update my profile as I grow — thanks for visiting! ✨
+  ✨ Growing daily as a Backend Engineer ✨
 </p>
