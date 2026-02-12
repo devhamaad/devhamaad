@@ -1,24 +1,24 @@
-<h1 align="center">Hamaad</h1>
-<h3 align="center">I build backend systems that behave.</h3>
+<h1 align="center">Hi, I'm Hamaad 👋</h1>
 
 <p align="center">
-  Software Engineer • Backend Focus • Clean Architecture Mindset
+  Software Engineer • Backend Developer • Always Learning
 </p>
 
 ---
 
-## Who am I?
+## My Journey
 
-I'm a Software Engineer focused on backend systems — not just writing endpoints, but designing APIs that are secure, scalable, and maintainable.
+I didn’t start as an expert.
 
-I care about:
-- Clean code
-- Clear architecture
-- Performance
-- Security
-- Simplicity over hype
+I started confused.  
+Reading documentation slowly.  
+Breaking things. Fixing them. Breaking them again.  
 
-If it runs in production, it should be predictable.
+Today, I work as a Software Engineer building backend systems with Java and Spring Boot.  
+Not perfectly. Not magically.  
+But consistently.
+
+Every day I try to understand systems a little deeper than yesterday.
 
 ---
 
@@ -27,38 +27,46 @@ If it runs in production, it should be predictable.
 Spring Boot  
 Spring Security  
 JPA / Hibernate  
-MySQL / PostgreSQL  
+MySQL & PostgreSQL  
 Microservices  
 Redis  
 Docker  
 Jenkins CI/CD  
 
-I work inside real systems — fixing bugs, improving structure, understanding existing codebases, and making them better.
+But tools are just tools.
+
+What really matters to me is writing code that:
+- Someone else can understand  
+- Doesn’t collapse under pressure  
+- Still makes sense six months later  
 
 ---
 
-## Engineering Philosophy
+## What I Believe
 
-• If it’s complex, simplify it.  
-• If it’s messy, refactor it.  
-• If it’s slow, measure it.  
-• If it’s insecure, fix it.  
+Good backend development is not about writing many endpoints.  
+It’s about designing systems that behave correctly.
 
-Backend isn’t about controllers.  
-It’s about systems.
+It’s about:
+- Thinking before coding  
+- Refactoring when needed  
+- Taking responsibility when something breaks  
+- Growing quietly without noise  
 
 ---
 
-## Current Focus
+## Right Now
 
-- Advanced Spring Security  
-- Logging & MDC  
-- Caching with Redis  
-- Production-ready Microservices  
-- Writing code I won’t hate in 6 months  
+I’m focused on becoming a stronger backend engineer.  
+Learning deeply.  
+Understanding architecture.  
+Improving daily.
+
+Not chasing hype.  
+Chasing mastery.
 
 ---
 
 <p align="center">
-  Backend over buzzwords.
+  Still learning. Still building. Still improving.
 </p>
