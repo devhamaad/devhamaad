@@ -1,99 +1,64 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Hamaad</h1>
-<h3 align="center">💻 Software Engineer | Backend Systems & Clean Architecture</h3>
+<h1 align="center">Hamaad</h1>
+<h3 align="center">I build backend systems that behave.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  Software Engineer • Backend Focus • Clean Architecture Mindset
 </p>
 
 ---
 
-## 🌟 About Me
+## Who am I?
 
-I'm a **Software Engineer** focused on building scalable and production-grade backend systems.
+I'm a Software Engineer focused on backend systems — not just writing endpoints, but designing APIs that are secure, scalable, and maintainable.
 
-I work primarily with the **Spring Boot ecosystem**, designing RESTful APIs, securing applications, managing databases, and contributing to microservices-based architectures.
+I care about:
+- Clean code
+- Clear architecture
+- Performance
+- Security
+- Simplicity over hype
 
-I believe in:
-- Writing clean, maintainable code  
-- Designing systems with clarity  
-- Following best practices & clean architecture principles  
+If it runs in production, it should be predictable.
 
 ---
 
-## 🛠️ Technical Expertise
+## What I Work With
 
-### 🔹 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres" height="50" />
-</p>
+Spring Boot  
+Spring Security  
+JPA / Hibernate  
+MySQL / PostgreSQL  
+Microservices  
+Redis  
+Docker  
+Jenkins CI/CD  
 
-- Spring Boot  
-- Spring Security  
-- JPA / Hibernate  
-- RESTful API Design  
-- Microservices Architecture  
-- Pagination, Filtering & Sorting  
+I work inside real systems — fixing bugs, improving structure, understanding existing codebases, and making them better.
+
+---
+
+## Engineering Philosophy
+
+• If it’s complex, simplify it.  
+• If it’s messy, refactor it.  
+• If it’s slow, measure it.  
+• If it’s insecure, fix it.  
+
+Backend isn’t about controllers.  
+It’s about systems.
+
+---
+
+## Current Focus
+
+- Advanced Spring Security  
 - Logging & MDC  
-- Exception Handling & Validation  
-
----
-
-### 🔹 Databases
-- MySQL  
-- PostgreSQL  
-- Query optimization  
-- Entity relationships & mapping  
-
----
-
-### 🔹 DevOps & Deployment (Exposure)
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,redis,linux" height="50" />
-</p>
-
-- CI/CD Pipelines (Jenkins)  
-- Docker Containers  
-- Redis Caching  
-- Linux basics  
-
----
-
-## 🚀 What I Focus On
-
-- Building secure backend systems  
-- Writing production-ready APIs  
-- Clean code & maintainable architecture  
-- Continuous improvement as a backend engineer  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devhamaad&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=devhamaad&show_icons=true&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="mailto:devhamaad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/hamaad-majeed-521387398/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- Caching with Redis  
+- Production-ready Microservices  
+- Writing code I won’t hate in 6 months  
 
 ---
 
 <p align="center">
-  🚀 Strong Backend Engineer | Clean Code Enthusiast
+  Backend over buzzwords.
 </p>
